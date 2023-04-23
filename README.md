@@ -1,7 +1,10 @@
 <head>
-  <link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
+ <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
 </head>
 <h1 align="left" style="font-family: 'VT323', monospace;"> Hi, I'm Charles Martins</h1>
+
 
 - 🔥 Front-end Developer
 
