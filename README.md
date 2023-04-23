@@ -1,3 +1,6 @@
+<head>
+  <link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
+</head>
 <h1 align="left" style="font-family: 'VT323', monospace;"> Hi, I'm Charles Martins</h1>
 
 - 🔥 Front-end Developer
