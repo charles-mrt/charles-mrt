@@ -10,7 +10,7 @@
 - 👨‍💻 More at [charles-martins.dev](https://www.linkedin.com/in/charles-martins-tecnologia-da-informacao/)
 
 <div>
-  <a href="https://github.com/duribeiro">
+  <a href="https://github.com/chrales-mrt">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=charles-mrt&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charles-mrt&langs_count=10&theme=tokyonight&hide_border=false&layout=compact"/>
   </a>
