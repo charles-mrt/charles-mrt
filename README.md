@@ -1,6 +1,4 @@
-<style>
-@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
-</style>
+
 <h1 align="left" style="font-family: 'VT323', monospace;"> Hi, I'm Charles Martins</h1>
 
 <!--
