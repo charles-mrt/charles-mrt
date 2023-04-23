@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently studying, Javascript, ReactJs, Typescript, Tailwind.
 
-- 💬 I love being able to help out. Ask me about **JavaScript, HTML, CSS** - if I know, I'll assist you; otherwise, I'll go after to find out and help you."
+- 💬 I love being able to help out. Ask me about **JavaScript, HTML, CSS** - if I know, I'll assist you; otherwise, I'll go after to find out and help you.
 
 - 👨‍💻 More at [charles-martins.dev](https://www.linkedin.com/in/charles-martins-tecnologia-da-informacao/)
 
