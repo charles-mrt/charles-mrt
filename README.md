@@ -8,8 +8,8 @@
 - ♥ I love being able to help out. Ask me about **JavaScript, HTML, CSS** - if I know, I'll assist you; otherwise, I'll go after to find out and help you.
 
 
-- 👨‍💻 Portfolio [charles-martins.dev](https://charles-martins-dev.vercel.app/)
-- - 👨‍💻 More at [charles-martins.dev](https://www.linkedin.com/in/charles-martins-tecnologia-da-informacao/)
+- 👨‍💻 Portfolio [charles-martins-dev](https://charles-martins-dev.vercel.app/)
+- - 👨‍💻 know more about me at [charles-linked-in](https://www.linkedin.com/in/charles-martins-tecnologia-da-informacao/)
 
 <div>
 <a href="https://github.com/charles-mrt">
