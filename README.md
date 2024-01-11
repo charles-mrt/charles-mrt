@@ -3,7 +3,7 @@
 
 - 🔥 Front-end Developer
 
-- 🔭 I'm currently studying, Javascript, ReactJs, Typescript, Tailwind.
+- 🔭 I'm currently studying, Javascript, ReactJs, NextJs, Typescript, Tailwind.
 
 - ♥ I love being able to help out. Ask me about **JavaScript, HTML, CSS** - if I know, I'll assist you; otherwise, I'll go after to find out and help you.
 
