@@ -3,7 +3,7 @@
 
 - 🔥 Front-end Developer
 
-- 🔭 I'm currently studying, Javascript, ReactJs, NextJs, Typescript, Tailwind.
+- 🔭 I’m currently focused on JavaScript, React.js, Next.js, TypeScript, and Tailwind CSS
 
 - ♥ I love being able to help out. Ask me about **JavaScript, HTML, CSS** - if I know, I'll assist you; otherwise, I'll go after to find out and help you.
 
@@ -25,7 +25,7 @@
   <img align="center" alt="charlesReact" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="charlesHTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="charlesCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="charlesTailWindcss" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
+  <img align="center" alt="charlesTailWindcss" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
   <img align="center" alt="charlesWordpress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
  
 </div>
